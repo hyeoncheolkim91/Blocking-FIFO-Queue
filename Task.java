@@ -1,4 +1,4 @@
-package taskExecutor;
+package edu.utdallas.taskExecutor;
 
 public interface Task
 {
