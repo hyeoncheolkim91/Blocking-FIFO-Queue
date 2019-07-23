@@ -1,4 +1,4 @@
-package edu.utdallas.blockingFIFO;
+package blockingFIFO;
 
 
 
