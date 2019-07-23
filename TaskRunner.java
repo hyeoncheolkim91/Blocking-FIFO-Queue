@@ -1,7 +1,7 @@
-package edu.utdallas.taskExecutorImpl;
+package taskExecutorImpl;
 
-import edu.utdallas.blockingFIFO.*;
-import edu.utdallas.taskExecutor.Task;
+import blockingFIFO;
+import Task;
 
 public class TaskRunner implements Runnable {
 
