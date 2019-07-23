@@ -1,8 +1,8 @@
-package edu.utdallas.taskExecutorImpl;
+package taskExecutorImpl;
 
-import edu.utdallas.blockingFIFO.*;
-import edu.utdallas.taskExecutor.Task;
-import edu.utdallas.taskExecutor.TaskExecutor;
+import blockingFIFO;
+import Task;
+import TaskExecutor;
 
 public class TaskExecutorImpl implements TaskExecutor
 {
